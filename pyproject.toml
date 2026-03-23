@@ -1,7 +1,7 @@
 [project]
 name = "fp-gpu"
 version = "0.1.0"
-description = "Add your description here"
+description = "First Sheet in Simulation on GPUs Labcourse"
 readme = "README.md"
 authors = [
     { name = "vbeguin", email = "160333309+lycoa@users.noreply.github.com" }
